@@ -15,8 +15,9 @@
 #2. How well can we predict hospital readmission in this dataset with limited features?
 
 #Tasks
-Visualizations (20)
-Analysis & Conclusion (20)
-Group Presentation (20)
-Slide Deck (20)
+Visualizations (20) - Akeep & Drew
+Analysis & Conclusion (20) - Mae
+Group Presentation (20) - All
+Slide Deck (20) - Pamala
 
+![image](https://github.com/Peacoxx/Project1-DataViz/assets/151103479/05595298-93e4-42c8-bfad-c03b55fcdab9)
